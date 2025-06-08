@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cursor",
+    "publisher": "Cursor",
+    "path": "E:/cursor/Cursor.exe",
+    "uninstall": "\"E:\\cursor\\unins000.exe\""
+  },
+  {
+    "name": "MongoDB",
+    "publisher": "",
+    "path": "E:/MongoDBCompass/app-1.46.3/MongoDBCompass.exe",
+    "uninstall": ""
+  }
+]
